@@ -1,0 +1,14 @@
+Kode_Desa,Nama_Desa,Luas,Jumlah_Penduduk,Kepadatan
+001,Bawukan,3.36,3018,898
+002,Panggang,2.9,1456,502
+003,Talun,2.02,2189,1084
+004,Kendalsari,4.95,3692,746
+005,Keputran,2.13,3543,1663
+006,Kemalang,2.73,2902,1063
+007,Dompol,2.5,2258,903
+008,Tangkil,3.19,2963,929
+009,Bumiarjo,3.52,1991,566
+010,Tlogowatu,4.67,3470,743
+011,Sidorejo,7.05,4251,603
+012,Balerante,8.31,1778,214
+013,Tegalmulyo,4.33,2257,521
